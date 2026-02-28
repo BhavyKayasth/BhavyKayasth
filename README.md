@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @BhavyKayasth
-- 👀 I’m interested in mobile app devlopment.
-- 🌱 Skilled in Flutter for cross-platform mobile apps
-  and currently expanding into web development with React, Node.js, and Tailwind CSS.
-- 📫 How to reach me Email:- forcontactbk@gmail.com.
-- 😄 Pronouns: He/Him.
+- 👀 Passionate about mobile app development
+- 🌱 Skilled in Flutter for cross-platform mobile apps and currently expanding into web development with React, Node.js, and Tailwind CSS
+- 📫 Reach me at: forcontactbk@gmail.com
+- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Trying to achieve dreams.
 
 <!---
